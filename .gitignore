@@ -1,0 +1,18 @@
+# Ignore the project documents directory
+17181 W Bernardo Dr/
+
+# Common files to ignore
+.DS_Store
+*.bak
+*.tmp
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
